@@ -6,3 +6,5 @@
 
 #divison function added
 
+#multiplication fucntion added
+
